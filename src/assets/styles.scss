@@ -1,3 +1,4 @@
+@import '@splidejs/vue-splide/css';
 //Alto del menu + submenu
 $menuHeight: 94px;
 $maincolor:  #045694;
@@ -86,6 +87,25 @@ header{
                 }
             }
         }
+
+        .header-icons-container{
+            margin-left: auto;
+            ul{
+                list-style: none;
+                display: flex;
+
+                li{
+                    margin-left: 15px;
+                    margin-right: 15px;
+                    a{
+                        svg{
+                            font-size: 21px;
+                        }
+                    }
+                }
+            }
+
+        }
     }
 }
 
@@ -135,6 +155,7 @@ footer{
                     margin-left: 45px;
                     a{
                         color: white;
+                        font-size: 21px;
                     }
                 }
             }
@@ -201,6 +222,7 @@ footer{
 
         .sponsors-container{
             text-align: center;
+            border-bottom: 1px solid #689abf;
 
             h5{
                 color: white;
@@ -227,3 +249,4 @@ footer{
 
 @import "./components/mainNewComponent.scss";
 @import "./components/featuredNewsComponent.scss";
+@import "./components/insideFifa.scss";

@@ -1,6 +1,7 @@
 <script setup>
   import mainNewComponent from './components/mainNewComponent.vue';
   import featuredNewsComponent from './components/featuredNewsComponent.vue';
+  import insideFifa from './components/insideFifa.vue';
 
 </script>
 
@@ -70,6 +71,25 @@
           </li>
         </ul>
       </nav>
+      <div class="header-icons-container">
+        <ul>
+          <li>
+            <a href="#">
+              <font-awesome-icon icon="magnifying-glass" />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <font-awesome-icon icon="globe" />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <font-awesome-icon icon="user" />
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
   </header>
 
@@ -99,6 +119,7 @@
       />
 
     <featuredNewsComponent/>
+    <insideFifa/>
 
   </main>
 
@@ -112,11 +133,11 @@
     </div>
     <div class="social-container">
       <ul>
-        <li><a href="#"><span class="material-symbols-outlined">shop_two</span></a></li>
-        <li><a href="#"><span class="material-symbols-outlined">shop_two</span></a></li>
-        <li><a href="#"><span class="material-symbols-outlined">shop_two</span></a></li>
-        <li><a href="#"><span class="material-symbols-outlined">shop_two</span></a></li>
-        <li><a href="#"><span class="material-symbols-outlined">shop_two</span></a></li>
+        <li><a href="#"><font-awesome-icon icon="fa-brands fa-x-twitter" /></a></li>
+        <li><a href="#"><font-awesome-icon icon="fa-brands fa-facebook-f" /></a></li>
+        <li><a href="#"><font-awesome-icon icon="fa-brands fa-instagram" /></a></li>
+        <li><a href="#"><font-awesome-icon icon="fa-brands fa-youtube" /></a></li>
+        <li><a href="#"><font-awesome-icon icon="fa-brands fa-tiktok" /></a></li>
       </ul>
     </div>
     <div class="footer-text">
@@ -188,6 +209,7 @@
     </div>
 
   </div>
+
 
   </footer>
 </template>

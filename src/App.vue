@@ -1,7 +1,10 @@
 <script setup>
   import mainNewComponent from './components/mainNewComponent.vue';
   import featuredNewsComponent from './components/featuredNewsComponent.vue';
-  import insideFifa from './components/insideFifa.vue';
+  import copaMundialFemenina from './components/copaMundialFemenina.vue';
+  import section_Fifa_InsideFifa from './components/section_Fifa_InsideFifa.vue';
+  import homeCarrouselComponent from './components/homeCarrouselComponent.vue';
+  import slideFifaComponent from './components/slideFifaComponent.vue';
 
 </script>
 
@@ -118,8 +121,11 @@
       bannerLink="/"
       />
 
+      <copaMundialFemenina/>
     <featuredNewsComponent/>
-    <insideFifa/>
+    <homeCarrouselComponent title="PRÓXIMOS TORNEOS Y EVENTOS" href="/" title2="INSIDE FIFA" title3="FIFA STORE" title4="EXPERIMENTA LOS TORNEOS DE LA FIFA" title5="BIENVENIDO A LA PLAY ZONE"/>
+    <slideFifaComponent title="HISTORIAS DE LA COPA MUNDIAL DE LA FIFA"/>
+    <section_Fifa_InsideFifa/>
 
   </main>
 
@@ -209,6 +215,17 @@
     </div>
 
   </div>
+    <div class="terminos-footer-container">
+      <div class="terminos-left">
+        <p>PÓLITICA DE PRIVACIDAD</p>
+        <p>TÉRMINOS DE SERVICIO</p>
+        <p>AJUSTAR LA CONFIGURACIÓN DE LAS COOKIES</p>
+      </div>
+      <div class="terminos-right">
+        <p>Copyright © 1994 - 2024 FIFA. Todos los derechos reservados.</p>
+      </div>
+    </div>
+
 
 
   </footer>

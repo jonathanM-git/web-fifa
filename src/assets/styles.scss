@@ -245,8 +245,35 @@ footer{
             }
         }
     }
+
+    .terminos-footer-container{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        color: white;
+        padding: 10px 0 24px 0;
+        font-size: 17px;
+
+        .terminos-left{
+            width: 50%;
+            padding-left: 90px;
+            display: flex;
+            p{
+                padding-left: 30px;
+            }
+        }
+        .terminos-right{
+            width: 50%;
+            padding-right: 90px;
+            display: flex;
+            justify-content: end;
+        }
+    }
 }
 
 @import "./components/mainNewComponent.scss";
 @import "./components/featuredNewsComponent.scss";
-@import "./components/insideFifa.scss";
+@import "./components/copaMundialFemenina.scss";
+@import "./components/section_Fifa_InsideFifa.scss";
+@import "./components/homeCarrouselComponent.scss";
+@import "./components/slideFifaComponent.scss";

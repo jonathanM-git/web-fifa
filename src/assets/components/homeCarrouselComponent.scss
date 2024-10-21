@@ -1,0 +1,60 @@
+.home-carrousel-container{
+    margin-bottom: 45px;
+    .home-carrousel-title-container{
+        padding-left: 80px;
+        padding-right: 80px;
+        display: flex;
+        flex-flow: row;//Esto lo que hace es poner a los lados los elementos
+        margin-top: 50px;
+        
+        h2{
+            margin: 0 0 10px 0;//Para que quite los margenes que tienen predeterminados
+            font-weight: 500;
+        }
+        a{
+            margin-left: auto;
+            text-decoration: none;//para que se quite la linea que tiene abajo el texto
+            color: #65b0fd !important;//para que cuando se clice encima no se cambie de color
+            align-self: center;//para que se alinee con el título
+            // align-items: end;//para que se alinee con el título
+        }
+    }
+
+    
+    .home-carrousel{
+        a{
+            text-decoration: none;
+        }
+        .home-carrousel-item-img-container{//Esta clase es para crear el borde en el slide
+            height: 220px;
+            overflow: hidden;
+            border-radius: 10px;
+            .home-carrousel-item-img{
+                height: 100%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                transition: all 0.4s;
+            }
+
+            &:hover{
+                .home-carrousel-item-img{
+                    transform: scale(1.2);
+                }
+            }
+        }
+        .home-carrousel-item-text{
+            margin-top: 5px;
+            font-size: 17px;
+            color: black;
+        }
+
+        &.man-item{ //Es igual que decir .home-carrousel man-item , es decir, que solo afecte a este los siguientes cambios
+            .home-carrousel-item-img-container{
+                height: 260px;
+                width: 260px;
+            }
+        }
+    }
+
+}

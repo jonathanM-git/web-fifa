@@ -1,0 +1,130 @@
+.container {
+  width: 100%;
+  padding: 20px;
+  background-color: #f2f4fa;
+}
+
+h1 {
+  text-align: left; 
+  text-transform: uppercase; /* Convertir a mayúsculas */
+  font-size: 20px; /* Ajustar el tamaño de la letra */
+  margin-bottom: 10px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.match-card-femenina {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: calc(100% - 20px); /* Ancho total menos el margen */
+  margin: 10px 10px 20px; /* Espacio alrededor (10px a los lados y 20px abajo) */
+  justify-content: space-between;
+}
+
+.match-header-femenina {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.match-title-femenina {
+  font-size: 0.9rem;
+}
+
+.match-date-femenina {
+  font-size: 0.9rem;
+  color: grey;
+}
+
+.match-details-femenina {
+  margin-bottom: 10px;
+}
+
+.match-group-femenina {
+  font-size: 0.9rem;
+  color: grey;
+  margin-bottom: 5px;
+}
+
+.match-teams-femenina {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column; /* Cambiar a columna para que los equipos se apilen */
+  align-items: flex-start;
+  margin-bottom: 10px; /* Espacio entre los equipos */
+}
+
+.match-team-femenina {
+  display: flex;
+  align-items: center;
+}
+
+.match-team-femenina img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+
+.match-time-femenina {
+  font-size: 0.9rem;
+  color: grey;
+  justify-content: space-between;
+}
+
+.featured-item-img-container-femenina {
+  height: 235px;
+  width: 100%;
+  overflow: hidden; /* Asegura que la imagen no se desborde del contenedor */
+  border-radius: 20px;
+
+  .featured-item-img-femenina {
+      height: 100%;
+      width: 100%;
+      background-size: cover;
+      background-position: center;
+      transition: transform 0.3s ease; /* Suaviza la transición del zoom */
+
+      &:hover {
+          transform: scale(1.2); /* Aumenta el tamaño de la imagen al pasar el cursor */
+      }
+  }
+}
+
+#News-splide-femenina {
+    .splide__slide-femenina {
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+      cursor: pointer;
+  
+      .splide-item-container-femenina {
+        height: 230px; /* Fija una altura para las imágenes */
+        width: 100%;
+        background-size: cover; 
+        background-position: center;
+        background-repeat: no-repeat;
+        border-radius: 20px;
+        position: relative; /* Asegura que el texto se pueda posicionar dentro del contenedor */
+      }
+  
+      .splide-item-text-femenina {
+        position: absolute; /* Posiciona el texto de manera absoluta */
+        bottom: -10px; /* Coloca el texto en la parte inferior */
+        width: 95%;
+        color: black;
+        padding: 5px;
+        box-sizing: border-box;
+        
+        p {
+          font-size: 17px;
+          margin: 0;
+        }
+      }
+    }
+  }
+  

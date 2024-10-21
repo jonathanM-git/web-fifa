@@ -278,7 +278,7 @@
                     </div>
                     
                     <div class="home-carrousel-item-text">
-                        Copa Mundial de la FIFA 2026™
+                        Entradas para la Copa Mundial Femenina Sub-17 de la FIFA República Dominicana 2024™
                     </div>
                 </a>
             </SplideSlide>
@@ -289,7 +289,7 @@
                     </div>
                     
                     <div class="home-carrousel-item-text">
-                        Copa Intercontinental de la FIFA 2024™
+                        Registra tu interés en las entradas para la Copa Mundial de Beach Soccer de la FIFA Seychelles 2025™.
                     </div>
                 </a>
             </SplideSlide>
@@ -300,7 +300,7 @@
                     </div>
                     
                     <div class="home-carrousel-item-text">
-                        Copa Mundial Sub 17 Femenina de la FIFA República Dominicana 2024™
+                        Registra tu interés en entradas para el Mundial de Clubes FIFA 2025™
                     </div>
                 </a>
             </SplideSlide>
@@ -311,7 +311,7 @@
                     </div>
                     
                     <div class="home-carrousel-item-text">
-                        Copa Mundial de Beach Soccer de la FIFA Seychelles 2025™
+                        Registra tu interés en los paquetes de hospitalidad del Mundial de Clubes FIFA 2025™ 
                     </div>
                 </a>
             </SplideSlide>
@@ -322,7 +322,7 @@
                     </div>
                     
                     <div class="home-carrousel-item-text">
-                        Mundial de Clubes FIFA 2025™
+                        Registre su interés en entradas para la Copa Mundial de la FIFA 26™
                     </div>
                 </a>
             </SplideSlide>
@@ -333,7 +333,7 @@
                     </div>
                     
                     <div class="home-carrousel-item-text">
-                        Copa Mundial Femenina de Futsal de la FIFA 2025™
+                        Inscríbase para recibir información sobre los servicios preferentes oficiales de la Copa Mundial de la FIFA 26™
                     </div>
                 </a>
             </SplideSlide>
@@ -344,7 +344,7 @@
                     </div>
                     
                     <div class="home-carrousel-item-text">
-                        Copa Mundial Femenina de la FIFA 2027™
+                        Registra tu interés en las entradas de la Copa Mundial Femenina de la FIFA 2027™
                     </div>
                 </a>
             </SplideSlide>

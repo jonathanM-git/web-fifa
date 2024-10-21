@@ -46,8 +46,8 @@
                 <div class="slide-item-img-conatiner">
                     <div class="slide-item-img" style="background-image: url('https://digitalhub.fifa.com/transform/3668ae80-6099-4b99-af8d-acfad8961ac5/78982640?&io=transform:fill,aspectratio:9x16,height:304&quality=75');">
                         <div class="slide-item-text">
-                        <h4>Un triplete para los libros</h4>
-                        <h5>Revive Estados Unidos v Japón | Canadá 2015</h5>
+                        <h4>El inolvidable Neeskens</h4>
+                        <h5>Recordando a la leyenda</h5>
                         </div>
                     </div>
                 </div>
@@ -56,8 +56,8 @@
                 <div class="slide-item-img-conatiner">
                     <div class="slide-item-img" style="background-image: url('https://digitalhub.fifa.com/transform/c9d332a0-ac1a-41ab-b2b8-fabfd3e05661/1161470003?&io=transform:fill,aspectratio:9x16,height:320&quality=75');">
                         <div class="slide-item-text">
-                        <h4>Un triplete para los libros</h4>
-                        <h5>Revive Estados Unidos v Japón | Canadá 2015</h5>
+                        <h4>Segundo título de Alemania en China</h4>
+                        <h5>En este día: Alemania v Brasil | China 2007</h5>
                         </div>
                     </div>
                 </div>
@@ -66,8 +66,8 @@
                 <div class="slide-item-img-conatiner">
                     <div class="slide-item-img" style="background-image: url('https://digitalhub.fifa.com/transform/11c12bd1-b6d0-432a-bb11-a5acdfe9755f/1844531726?&io=transform:fill,aspectratio:9x16,height:320&quality=75');">
                         <div class="slide-item-text">
-                        <h4>Un triplete para los libros</h4>
-                        <h5>Revive Estados Unidos v Japón | Canadá 2015</h5>
+                        <h4>Imparable</h4>
+                        <h5>Revive la Copa Confederaciones de la FIFA™</h5>
                         </div>
                     </div>
                 </div>
@@ -76,8 +76,8 @@
                 <div class="slide-item-img-conatiner">
                     <div class="slide-item-img" style="background-image: url('https://digitalhub.fifa.com/transform/67f18e54-ba21-4cad-9cca-92ae7373a86c/Alessandro-Del-Piero-celebrates-scoring-for-Italy-against-Germany-in-the-2006-FIFA-World-Cup-semi-finals?&io=transform:fill,aspectratio:9x16,height:320&quality=75');">
                         <div class="slide-item-text">
-                        <h4>Un triplete para los libros</h4>
-                        <h5>Revive Estados Unidos v Japón | Canadá 2015</h5>
+                        <h4>Italia en camino</h4>
+                        <h5>Revive Alemania vs Italia | Alemania 2006</h5>
                         </div>
                     </div>
                 </div>
@@ -86,8 +86,8 @@
                 <div class="slide-item-img-conatiner">
                     <div class="slide-item-img" style="background-image: url('https://digitalhub.fifa.com/transform/2fc8bda7-9dec-45d8-b7c2-0b02ac1a6730/1994_C_Klinsmann_1-0_GER_BOL?&io=transform:fill,aspectratio:9x16,height:320&quality=75');">
                         <div class="slide-item-text">
-                        <h4>Un triplete para los libros</h4>
-                        <h5>Revive Estados Unidos v Japón | Canadá 2015</h5>
+                        <h4>Copa del Mundo Jürgen</h4>
+                        <h5>Celebrando a Jürgen Klinsmann | 30 de julio</h5>
                         </div>
                     </div>
                 </div>
@@ -96,8 +96,8 @@
                 <div class="slide-item-img-conatiner">
                     <div class="slide-item-img" style="background-image: url('https://digitalhub.fifa.com/transform/fdcfd682-c34d-4dae-922f-91d90ffc0334/Homara-Sawa-Japan-2011-World-Cup-Win-Getty?&io=transform:fill,aspectratio:9x16,height:320&quality=75');">
                         <div class="slide-item-text">
-                        <h4>Un triplete para los libros</h4>
-                        <h5>Revive Estados Unidos v Japón | Canadá 2015</h5>
+                        <h4>El primer de Japón</h4>
+                        <h5>En este día: Japón vs EE. UU. | Alemania 2011</h5>
                         </div>
                     </div>
                 </div>
